@@ -1,0 +1,11 @@
+body{
+	background-image: url('images/butterfly.jpeg');
+	background-size: cover;
+	background-repeat:repeat;
+}
+.ab{
+	font-family:italic;
+	font-size:60px;
+	color:white;
+	text-align:center;
+}

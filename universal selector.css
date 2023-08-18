@@ -1,0 +1,18 @@
+
+#d1{
+	background-color:violet;
+	height:500px;
+	width:500px;
+
+}
+#d2{
+	background-color:red;
+	height:500px;
+	width:500px;
+
+}
+*{
+	font-size: 100px;
+	font-family:italic;
+	color:red;
+}

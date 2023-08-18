@@ -1,0 +1,28 @@
+#bs
+{
+	font-size: 50px;
+	font-family:italic;
+
+}
+#home
+{
+	font-size: 30px;
+	font-family:bold;
+	color:orangered;
+	
+}
+#contact
+{
+	font-size: 30px;
+	font-family:bold;
+	color:green;
+	
+}
+
+#interests
+{
+	font-size: 30px;
+	font-family:bold;
+	color:blue;
+	
+}

@@ -1,0 +1,24 @@
+input[type="text"]{
+	color:greem;
+	height:50px;
+}
+
+input[type="number"]{
+	color:red;
+	height:50px;
+}
+input[type="password"]{
+	color:blue;
+	height:50px;
+}
+a[href]{
+	color:orange;
+	background-color:pink;
+}
+img[src]{
+	border:50px solid red ;	
+	height:300px;
+     
+	width:300px;
+	
+}
